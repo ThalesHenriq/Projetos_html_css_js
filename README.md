@@ -8,7 +8,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <div style="display: inline_block"><br>
-![1](https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/c43dbad8-1b98-45d1-b20e-3b4419506feb)
+  <img align="center" alt="" height="30" width="40" src="https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/c43dbad8-1b98-45d1-b20e-3b4419506feb!">
 ![2](https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/92f4fe2b-dd90-4fd4-a0f1-b51682029703)
 ![3](https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/0ca20f14-4297-42f2-8772-a19e4e586134)
 ![4](https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/039fe195-9d2d-4571-a82b-0225382093a1)
