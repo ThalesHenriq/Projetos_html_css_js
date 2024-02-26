@@ -27,6 +27,14 @@ Para aprendizado nada melhor que treinar❗️
 
 7 Tela de login:
 
+8 Flappybird
+
+9 Tela de login
+
+10 globo
+
+11 valenetines card
+
 # proximo projeto:
 
 Snake Game:
