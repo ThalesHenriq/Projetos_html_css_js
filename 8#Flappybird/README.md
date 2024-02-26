@@ -5,3 +5,4 @@ VIDEO :https://youtu.be/iQUhc_d-Buo?si=UZo_EO1YoXo3iNAS
 LINK :https://flappybird-lb0fsozbp-thaleshenriq.vercel.app/
 
 
+![Captura de tela 2023-11-29 091747](https://github.com/ThalesHenriq/Projetos_html_css_js/assets/125931825/3a08f3e7-ab6e-43fb-90b8-495519006c6b)
