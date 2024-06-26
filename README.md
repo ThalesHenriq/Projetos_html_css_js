@@ -35,9 +35,9 @@ Para aprendizado nada melhor que treinar❗️
 
 11 valenetines card
 
-12 galeria em grid
+12 galeria 
 
-13
+13 grid com informações 
 
 # proximo projeto:
 
