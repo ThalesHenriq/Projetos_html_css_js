@@ -35,7 +35,10 @@ Para aprendizado nada melhor que treinar❗️
 
 11 valenetines card
 
+12 galeria em grid
+
+13
+
 # proximo projeto:
 
-Snake Game:
 
